@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gem 'sqlite3'
 gem 'activerecord', require: 'active_record'
 gem 'rspec'
-gem 'rake', '12.3.0'
+gem 'rake'
 gem 'pry'
